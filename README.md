@@ -1,6 +1,6 @@
 # Corrective RAG Agent
 
-![Corrective RAG Agent Workflow](/CORR_RAG.png)
+![Corrective RAG Agent Workflow](/diagram.png)
 
 ## Project Description
 
@@ -9,14 +9,14 @@ The Corrective RAG Agent is an advanced question-answering system that utilizes 
 ### Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <!-- Python icon for Llama3 -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <!-- Firebase icon for Firecrawl -->
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <!-- TensorFlow icon for Langchain -->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/meta-icon.svg" alt="llama" width="40" height="40"/> <!-- Llama3 -->
+  <img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" alt="firebase" width="40" height="40"/> <!-- Langchain  -->
+  <img src="https://static-00.iconduck.com/assets.00/fire-emoji-402x512-8ma95d17.png" alt="tensorflow" width="40" height="40"/> <!-- Firecrawl-->
 </p>
 
-- **Llama3**: Advanced language model for natural language processing
-- **Firecrawl**: Web crawling and data extraction tool
-- **Langchain**: Framework for developing applications powered by language models
+- **Llama3**
+- **Firecrawl**
+- **Langchain**
 
 ### Workflow
 
