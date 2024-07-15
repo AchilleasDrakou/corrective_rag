@@ -4,7 +4,7 @@
 
 ## Project Description
 
-The Corrective RAG Agent is an advanced question-answering system that utilizes Retrieval-Augmented Generation (RAG) techniques with additional corrective measures to ensure high-quality, relevant answers.
+Jupyter notebook tutorial for a local Corrective RAG Agent. The goal is to provide accurate, relevant, and hallucination-free answers by combining the strengths of retrieval-based systems with generative AI and web search capabilities.
 
 ### Tech Stack
 
@@ -12,11 +12,18 @@ The Corrective RAG Agent is an advanced question-answering system that utilizes 
 - **Firecrawl** 🔥
 - **Langchain** 🦜️🔗
 
+### Key Features
+
+- Document retrieval and relevance grading
+- Web search integration for enhanced information gathering
+- Hallucination detection and correction mechanism
+- Iterative answer improvement process
+
 ### Workflow
 
-1. **Question Input**: The process begins with a user-provided question.
+1. **Question Input**: User-provides question.
 
-2. **Retrieve Documents**: The system retrieves relevant documents based on the input question.
+2. **Retrieve Documents**: Relevant documents retrieved based on the input question.
 
 3. **Grade Documents**: Retrieved documents are graded for relevance and quality.
 
@@ -34,14 +41,6 @@ The Corrective RAG Agent is an advanced question-answering system that utilizes 
 
 7. **Web Search**: When needed, the system performs a web search to gather additional, up-to-date information to supplement or correct the answer.
 
-### Key Features
-
-- Document retrieval and relevance grading
-- Web search integration for enhanced information gathering
-- Hallucination detection and correction mechanism
-- Iterative answer improvement process
-
-This Corrective RAG Agent aims to provide accurate, relevant, and hallucination-free answers by combining the strengths of retrieval-based systems with generative AI and web search capabilities.
 
 ## Setup and Usage
 
