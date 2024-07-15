@@ -10,8 +10,8 @@ The Corrective RAG Agent is an advanced question-answering system that utilizes 
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/meta-icon.svg" alt="llama" width="40" height="40"/> <!-- Llama3 -->
-  <img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" alt="firebase" width="40" height="40"/> <!-- Langchain  -->
-  <img src="https://static-00.iconduck.com/assets.00/fire-emoji-402x512-8ma95d17.png" alt="tensorflow" width="40" height="40"/> <!-- Firecrawl-->
+    🦜️🔗 <!-- Langchain  -->
+  🔥 <!-- Firecrawl-->
 </p>
 
 - **Llama3**
