@@ -8,15 +8,9 @@ The Corrective RAG Agent is an advanced question-answering system that utilizes 
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/meta-icon.svg" alt="llama" width="20" height="20"/> <!-- Llama3 -->
-    🦜️🔗 <!-- Langchain  -->
-  🔥 <!-- Firecrawl-->
-</p>
-
-- **Llama3**
-- **Firecrawl**
-- **Langchain**
+- **Llama3** <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/meta-icon.svg" alt="llama" width="20" height="20"/> <!-- Llama3 -->
+- **Firecrawl** 🔥
+- **Langchain** 🦜️🔗
 
 ### Workflow
 
