@@ -1,4 +1,4 @@
-# Corrective RAG Agent
+# Local Corrective RAG Agent
 
 ![Corrective RAG Agent Workflow](/diagram.png)
 
