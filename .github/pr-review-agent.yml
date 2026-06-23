@@ -3,6 +3,7 @@ branches:
   include:
     - main
     - dev
+    - master
 review:
   lenses:
     - correctness
